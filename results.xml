@@ -1,0 +1,6 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="9.134587">
+<testsuite name="tests\TC_02assertions.spec.ts" timestamp="2024-12-25T18:28:07.219Z" hostname="chromium" tests="1" failures="0" skipped="0" time="7.364" errors="0">
+<testcase name="Assertions Test" classname="tests\TC_02assertions.spec.ts" time="7.364">
+</testcase>
+</testsuite>
+</testsuites>
